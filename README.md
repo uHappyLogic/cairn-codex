@@ -9,7 +9,7 @@
 
 # Cairn for Codex
 
-Milestone-driven development for your coding agent — any kind of work, one milestone at a time.
+Cairn brings all the important questions up to be decided upfront, so you can hand long-running execution to your agent confidently.
 
 This repository is the Codex distribution of [Cairn](https://github.com/uHappyLogic/cairn). It carries the built Codex plugin tree exactly as a Cairn release published it: the `.agents/plugins/marketplace.json` marketplace at its root and, under `plugins/cairn/`, the `.codex-plugin/plugin.json` manifest beside the plugin's skills, agents, and shared procedures, which makes it the source to add as a marketplace.
 
@@ -46,7 +46,7 @@ Run Codex's `/init` to document your project — its domain context, working con
 
 ## Source
 
-Built from [uHappyLogic/cairn](https://github.com/uHappyLogic/cairn) at release tag [`1.8.0`](https://github.com/uHappyLogic/cairn/releases/tag/1.8.0), whose release page carries the notes for this version. The exact source commit this tree was built from is recorded in the body of this repository's `Release: 1.8.0` commit.
+Built from [uHappyLogic/cairn](https://github.com/uHappyLogic/cairn) at release tag [`1.8.1`](https://github.com/uHappyLogic/cairn/releases/tag/1.8.1), whose release page carries the notes for this version. The exact source commit this tree was built from is recorded in the body of this repository's `Release: 1.8.1` commit.
 
 ## License
 
